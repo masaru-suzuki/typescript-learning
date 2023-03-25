@@ -1,0 +1,8 @@
+{
+  "name": "typescript-my-learning",
+  "version": "1.0.0",
+  "description": "typescript leaning repo",
+  "main": "index.js",
+  "license": "MIT",
+  "private": false
+}
